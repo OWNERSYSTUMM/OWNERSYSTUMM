@@ -1,4 +1,4 @@
-<img width=100% title="SYSTUMM" alt="SYSTUMM" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DHPR-VIKKY&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="SYSTUMM" alt="SYSTUMM" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SYSTUMM&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 😍 ᴅᴏɴᴀᴛᴇ ᴍᴇ 
 
@@ -12,7 +12,7 @@
      <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SYSTUMM;"/>
      <img width="150" align="center" src="https://komarev.com/ghpvc/?username=OWNERSYSTUMM&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="OWNERSYSTUMM"/>
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=masoombalak88&data=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=OWNERSYSTUMM&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
       <img alt="gif" src="./assets/images/demon-sleyar.gif">
    </td>  
@@ -218,7 +218,7 @@ func main() {
 
 
 <p align="center">
-<a href="https://github.com/masoombalak88"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoombalak88&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=masoombalak88&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<a href="https://github.com/OWNERSYSTUMM"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OWNERSYSTUMM&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=OWNERSYSTUMM&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
 
@@ -228,11 +228,11 @@ func main() {
 
 ### 📊 GitHub Profile Stats
 <p align="center">
-<a href="https://github.com/masoombalak88"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=masoombalak88&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=masoombalak88&theme=dark&hide_border=false" />
+<a href="https://github.com/OWNERSYSTUMM"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=OWNERSYSTUMM&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OWNERSYSTUMM&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
-<a href="https://github.com/masoombalak88">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masoombalak88&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=masoombalak88&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<a href="https://github.com/OWNERSYSTUMM">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OWNERSYSTUMM&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=OWNERSYSTUMM&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 
@@ -248,7 +248,7 @@ func main() {
 <img src="./assets/images/Footer.jpg">
 
 <!--
-**masoombalak88/masoombalak88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OWNERSYSTUMM/OWNERSYSTUMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
